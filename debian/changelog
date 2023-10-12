@@ -1,8 +1,9 @@
-haskell-these (1.1.1.1-deepin1) unstable; urgency=medium
+haskell-these (1.1.1.1-2) unstable; urgency=medium
 
-  * Rebuild
+  * Declare compliance with Debian policy 4.6.1
+  * Patch for newer dependencies
 
- -- Deepin Packages Builder <packages@deepin.org>  Fri, 25 Nov 2022 18:33:18 +0800
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Fri, 22 Jul 2022 13:32:15 +0300
 
 haskell-these (1.1.1.1-1) unstable; urgency=medium
 
